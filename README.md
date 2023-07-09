@@ -1,4 +1,4 @@
-# sanber-mobileAutomation
+# Mobile Automation with WebdriverIO & Appium
 
 How to Start
 
